@@ -17,9 +17,8 @@ button {
 }
 
 .passo {
-    display: none;
+   display: none;
 }
-
 
 .passo.ativo {
     display:block;
